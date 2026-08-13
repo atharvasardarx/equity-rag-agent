@@ -1,0 +1,13 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+transformers
+torch
+streamlit
+pypdf
+pandas
+langchain-classic
+torchvision
+langchain-ollama
+langgraph
